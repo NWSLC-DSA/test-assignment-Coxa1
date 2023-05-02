@@ -1,4 +1,6 @@
-# :wave: The Basics of GitHub 
+# 🥳🥳: The Basics of GitHub 
+
+**This is Adams practice assignment**
 
 ## 🤓 Course overview and learning outcomes 
 
